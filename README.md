@@ -7,17 +7,17 @@ The goal is to Transform raw, Inconsistent, and Incomplete data into a clean and
 
 Data Cleaning is a major part of a Data Analyst’s workflow, and this project reflects how it is handled in practical scenarios using Python.
 
---
+
 
 ## 🛠 Tools & Libraries Used
 
-Python
+- Python
 
-NumPy
+- NumPy
 
-Pandas
+- Pandas
 
-Matplotlib
+- Matplotlib
 
 
 ## 🔧 Data Cleaning Steps Performed
