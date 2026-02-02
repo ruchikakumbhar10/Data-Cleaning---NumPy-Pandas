@@ -24,27 +24,27 @@ Data Cleaning is a major part of a Data Analyst’s workflow, and this project r
 
 - Initial data inspection and understanding
 
-- Handling missing values using appropriate techniques (median, mean, mode, forward and backward fill)
+- Handling Missing values using appropriate techniques (median, mean, mode, forward and backward fill)
 
-- Fixing inconsistent categorical values (Gender, CustomerID formatting)
+- Fixing Inconsistent categorical values (Gender, CustomerID formatting)
 
-- Converting date columns to proper datetime format
+- Converting date columns to proper Datetime format
 
-- Correcting data types
+- Correcting Data types
 
 - Removing unnecessary columns
 
-- Identifying and analyzing outliers
+- Identifying and Analyzing Outliers
 
-- Creating a final clean dataset ready for analysis
+- Creating a final Clean Dataset ready for analysis
 
 ## ✅ Final Outcome
 
-- Clean and structured dataset
+- Clean and Structured Dataset
 
-- Correct data types
+- Correct Data Types
 
-- No missing values
+- No Missing Values
 
 - Consistent formatting across columns
 
