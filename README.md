@@ -1,15 +1,15 @@
 # Data-Cleaning---NumPy-Pandas
 
-**📂 Project Overview**
+## 📂 Project Overview
 
-This project focuses on cleaning a real-world messy customer dataset.
-The goal is to transform raw, inconsistent, and incomplete data into a clean and reliable dataset ready for analysis.
+This Project focuses on Vleaning a real-world Customer Messy Dataset.
+The goal is to Transform raw, Inconsistent, and Incomplete data into a clean and reliable dataset ready for analysis.
 
-Data cleaning is a major part of a data analyst’s workflow, and this project reflects how it is handled in practical scenarios using Python.
+Data Cleaning is a major part of a Data Analyst’s workflow, and this project reflects how it is handled in practical scenarios using Python.
 
 --
 
-🛠 Tools & Libraries Used
+## 🛠 Tools & Libraries Used
 
 Python
 
@@ -19,62 +19,37 @@ Pandas
 
 Matplotlib
 
-📊 Dataset Description
 
-The dataset contains customer-related information such as:
+## 🔧 Data Cleaning Steps Performed
 
-CustomerID
+- Initial data inspection and understanding
 
-Name
+- Handling missing values using appropriate techniques (median, mean, mode, forward and backward fill)
 
-Gender
+- Fixing inconsistent categorical values (Gender, CustomerID formatting)
 
-Age
+- Converting date columns to proper datetime format
 
-City
+- Correcting data types
 
-Signup Date
+- Removing unnecessary columns
 
-Last Purchase Date
+- Identifying and analyzing outliers
 
-Purchase Amount
+- Creating a final clean dataset ready for analysis
 
-Feedback Score
+## ✅ Final Outcome
 
-Country
+- Clean and structured dataset
 
-The raw data included missing values, incorrect formats, duplicates, and unrealistic values.
+- Correct data types
 
-🔧 Data Cleaning Steps Performed
+- No missing values
 
-Initial data inspection and understanding
+- Consistent formatting across columns
 
-Handling missing values using appropriate techniques (median, mean, mode, forward and backward fill)
+- Dataset ready for further analysis or modeling
 
-Fixing inconsistent categorical values (Gender, CustomerID formatting)
-
-Converting date columns to proper datetime format
-
-Correcting data types
-
-Removing unnecessary columns
-
-Identifying and analyzing outliers
-
-Creating a final clean dataset ready for analysis
-
-✅ Final Outcome
-
-Clean and structured dataset
-
-Correct data types
-
-No missing values
-
-Consistent formatting across columns
-
-Dataset ready for further analysis or modeling
-
-🎯 Key Learning
+## 🎯 Key Learning
 
 This project highlights how important data cleaning is before performing any analysis. Clean data improves accuracy, reliability, and confidence in decision-making.
