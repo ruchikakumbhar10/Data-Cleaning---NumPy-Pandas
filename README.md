@@ -2,7 +2,7 @@
 
 ## 📂 Project Overview
 
-This Project focuses on Vleaning a real-world Customer Messy Dataset.
+This Project focuses on Cleaning a real-world Customer Messy Dataset.
 The goal is to Transform raw, Inconsistent, and Incomplete data into a clean and reliable dataset ready for analysis.
 
 Data Cleaning is a major part of a Data Analyst’s workflow, and this project reflects how it is handled in practical scenarios using Python.
