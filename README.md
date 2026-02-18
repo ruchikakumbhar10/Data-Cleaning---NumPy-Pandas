@@ -53,3 +53,6 @@ Data Cleaning is a major part of a Data Analyst’s workflow, and this project r
 ## 🎯 Key Learning
 
 This project highlights how important data cleaning is before performing any analysis. Clean data improves accuracy, reliability, and confidence in decision-making.
+
+## Author
+Ruchika Kumbhar Data Analyst and Data Scientist
